@@ -1,0 +1,14 @@
+Copyright © 2025 DrKrishB
+
+All rights reserved.
+
+This code is made publicly visible for viewing purposes only.
+
+You may NOT:
+- Copy or paste any portion of the code
+- Reproduce, modify, or distribute the code
+- Use the code in your own academic, commercial, or personal projects
+
+If you wish to use or build upon any part of this repository, you must obtain **explicit written permission** from the author.
+
+Contact: kbose@live.in or via GitHub: https://github.com/DrKrishB
